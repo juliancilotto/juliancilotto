@@ -7,8 +7,8 @@
 - :microscope: I'm a Biomedical Science college student
 
 <div> 
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=juliancilotto&theme=omni&show_icons=true"/>
-<img height= "180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancilotto&layout=compact&langs-168&theme=omni"/>
+<img height= "150cm" widht="80" src="https://github-readme-stats.vercel.app/api?username=juliancilotto&theme=omni&show_icons=true"/>
+<img height= "150cm" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliancilotto&layout=compact&langs-168&theme=omni"/>
 </div> 
 
 <br>
