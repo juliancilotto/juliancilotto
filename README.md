@@ -2,8 +2,8 @@
 
 ###  Hi, I'm Julia Ancilotto 
 
-- 🔭 I’m currently learning how to code 
-- 🌱 I’m studying HTML5, CSS3 and JavaScript
+- :computer: I’m currently learning how to code 
+- :book: I’m studying Software Engineering
 - :microscope: I'm a Biomedical Science college student
 
 <div align="center"> 
@@ -14,9 +14,10 @@
 <br>
 
 <div align ="center">
-<code><img  height="30" alt="javascript" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png"></code>
 <code><img  height="30" alt="html" src="https://cdn-icons-png.flaticon.com/512/1532/1532556.png"></code>
 <code><img  height="30" alt="css" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png?f=avif&w=256"></code>
+<code><img  height="30" alt="javascript" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png"></code>
+<code><img  height="30" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
 </div>
 
 <br>
