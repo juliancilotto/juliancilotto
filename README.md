@@ -18,6 +18,7 @@
 <code><img  height="30" alt="css" src="https://cdn.iconscout.com/icon/free/png-512/css3-11-1175239.png?f=avif&w=256"></code>
 <code><img  height="30" alt="javascript" src="https://logospng.org/download/javascript/logo-javascript-icon-256.png"></code>
 <code><img  height="30" alt="react" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></code>
+<code><img  height="30" alt="next" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"></code>
 </div>
 
 <br>
