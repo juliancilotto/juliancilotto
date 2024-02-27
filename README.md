@@ -4,7 +4,7 @@
 
 - :computer: I’m currently learning how to code 
 - :book: I’m studying Software Engineering
-- :microscope: I'm a Biomedical Science college student
+- :microscope: I'm a Analysis and Systems Development college student
 
 <div align="center"> 
 <img height= "150cm" widht="80" src="https://github-readme-stats.vercel.app/api?username=juliancilotto&theme=omni&show_icons=true"/>
